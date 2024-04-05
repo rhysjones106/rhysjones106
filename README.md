@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I'm a cosplayer and create 3-4 new costumes each year.**
 
 
-<p align="left"> <b> Note: </b>The forked repositories you can see are projects I worked on during my time at Empowering Energy Solutions. [public-ev](https://github.com/rhysjones106/public-ev/) is a collaborative project between myself and my team members. The other forked projects are individual repositories I developed.</p>
+<p align="left"> <b> Note: </b>The forked repositories you can see are projects I worked on during my time at Empowering Energy Solutions. <a href="https://github.com/rhysjones106/public-ev/">public-ev</a> is a collaborative project between myself and my team members. The other forked projects are individual repositories I developed.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
