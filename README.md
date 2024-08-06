@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rhys</h1>
-<h3 align="center">A passionate Data Analyst & Python Developer from the United Kingdom with experience in both the Energy sector and Insurance.</h3>
+<h3 align="center">A passionate Data Analyst from the United Kingdom with experience in both the Energy sector and Insurance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhysjones106&label=Profile%20views&color=0e75b6&style=flat" alt="rhysjones106" /> </p>
 
-- 🌱 I’m currently learning **how to create an app using React Native**
+- 🌱 I’m currently learning **how to create an app using React Native & TypeScript from scratch**
 
 - 📫 How to reach me **mrrhysjones@gmail.com**
 
